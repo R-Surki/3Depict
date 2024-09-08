@@ -3,7 +3,7 @@
 """
 Created on Wed Aug 28 11:19:25 2024
 
-@author: rsurkial23
+@author: Roohallah Surki Aliabad roohallah.surkialiabad@oulu.fi
 """
 
 import cv2
