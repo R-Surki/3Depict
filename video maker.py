@@ -10,9 +10,9 @@ import cv2
 import os
 
 # Path to the folder containing PNG images
-image_folder = '16'
+image_folder = 'img'
 # Name of the output video file
-video_name = '16.mp4'
+video_name = 'img.mp4'
 # Text to display
 text = "Threshold= 16%"
 # Font settings
