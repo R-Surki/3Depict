@@ -3,7 +3,7 @@
 """
 Created on Wed Aug 28 11:42:41 2024
 
-@author: rsurkial23
+@author: Roohallah Surki Aliabad roohallah.surkialiabad@oulu.fi
 """
 import os
 os.environ["IMAGEIO_FFMPEG_EXE"] = "/opt/homebrew/bin/ffmpeg"
